@@ -117,6 +117,7 @@ public class StudentAppController implements Initializable {
             }
     
 
+    
     @FXML
     private void btnDeletehandle(ActionEvent event) throws Exception {
     EntityManager em = emf.createEntityManager();
